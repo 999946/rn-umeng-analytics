@@ -1,0 +1,14 @@
+{
+  "name": "rn-umeng-analytics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/999946/react-native-umeng-analytics.git"
+  },
+  "dependencies": {
+  }
+}
